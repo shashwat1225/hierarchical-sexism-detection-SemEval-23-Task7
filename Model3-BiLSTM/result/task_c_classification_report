@@ -1,0 +1,16 @@
+,precision,recall,f1-score,support
+1.1 threats of harm,0.0,0.0,0.0,14.0
+1.2 incitement and encouragement of harm,0.0,0.0,0.0,64.0
+2.1 descriptive attacks,0.26018099547511314,0.6424581005586593,0.3703703703703704,179.0
+2.2 aggressive and emotive attacks,0.2608695652173913,0.10714285714285714,0.15189873417721517,168.0
+2.3 dehumanising attacks & overt sexual objectification,0.0,0.0,0.0,50.0
+"3.1 casual use of gendered slurs, profanities, and insults",0.2672955974842767,0.5345911949685535,0.3563941299790357,159.0
+3.2 immutable gender differences and gender stereotypes,0.0,0.0,0.0,104.0
+3.3 backhanded gendered compliments,0.0,0.0,0.0,16.0
+3.4 condescending explanations or unwelcome advice,0.0,0.0,0.0,12.0
+4.1 supporting mistreatment of individual women,0.0,0.0,0.0,19.0
+4.2 supporting systemic discrimination against women as a group,0.0,0.0,0.0,65.0
+none,0.2850678733031674,0.315,0.29928741092636574,200.0
+accuracy,0.26761904761904765,0.26761904761904765,0.26761904761904765,0.26761904761904765
+macro avg,0.0894511692899957,0.13326601272250582,0.09816255378774891,1050.0
+weighted avg,0.18086862838780998,0.26761904761904765,0.1984185071333412,1050.0
